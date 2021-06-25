@@ -1,0 +1,12 @@
+.list {
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-grow: 1;
+    overflow: hidden;
+  }
+

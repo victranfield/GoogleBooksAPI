@@ -1,0 +1,21 @@
+.search-area {
+    text-align: center;
+    margin-top: 15px;
+    font-weight: 300;
+    cursor: pointer;
+  }
+
+  .search-button {
+    background: #2196F3;
+    color: white;
+    margin-top: 15px;
+    font-weight: 300;
+    border: 1px solid grey;
+    cursor: pointer;
+  }
+  
+  .search-button:hover {
+    background: #0b7dda;
+  }
+
+  
